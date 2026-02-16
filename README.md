@@ -72,6 +72,8 @@ This project supports running unit tests on your host machine (Mac/Linux) by moc
 | `make coverage` | Run tests and generate usage metrics. |
 | `make coverage-html` | Generate a visual HTML report of code coverage. |
 
+![Code Coverage Example](/img/code_coverage_example.png)
+
 ## Usage Example
 
 ```c
