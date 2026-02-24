@@ -1,6 +1,10 @@
 # Prerequisites
 *.d
 
+# Test binary, built with `make coverage-html
+
+bin/
+
 # Object files
 *.o
 *.ko
